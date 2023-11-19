@@ -1,0 +1,50 @@
+html{
+    background: #5c3c3c; ;
+}
+body{
+    font-family: "comic sans MS",cursive, sans-serif;
+    background: white;
+    /* max-width: 1000px; */
+    margin: 0 auto;
+}
+
+header, footer{
+    background: #373b3b
+}
+
+ ul {
+margin: 0;
+padding: 0;
+ }
+ header li{
+    display: inline;
+  }
+
+  header h1, nav {
+  display: inline-block ; 
+  }
+
+ #name{
+    background: blue; 
+ }
+ 
+ main{
+    width: 680px;
+ }
+
+ aside {
+    width: 680px;
+ }
+ 
+ .product {
+border: 1px solid grey;
+width: 200px;
+margin: 5px;
+padding: 5px;
+display: inline-block;
+ }
+
+img {
+max-width: 100%;
+ }
+
